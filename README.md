@@ -1,4 +1,4 @@
-<img width="100%" src="assets/banner.gif">
+<img width="100%" src="assets/bannner.gif">
 
 ## Description
 
